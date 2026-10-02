@@ -9,8 +9,8 @@
 
 您可以通过以下方式体验或查看项目资料：
 
-* **Android 安装包：** [👉 点击下载 v1.0.0 APK 安装包](https://github.com/peggyzhuuu-cpu/chinese-scene-vocab/releases/download/v1.0.0/app-release.apk)
- 
+* **Android 安装包：** [👉 点击下载 v1.0.0 APK 安装包]
+https://github.com/peggyzhuuu-cpu/chinese-scene-vocab/releases/tag/v1.0.0 
 * **需求与设计文档：** [查看项目完整 PRD 文档](./PRD.md)
 ---
 
