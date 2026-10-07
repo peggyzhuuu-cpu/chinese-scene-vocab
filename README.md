@@ -27,6 +27,14 @@ https://github.com/peggyzhuuu-cpu/chinese-scene-vocab/releases/tag/v1.0.0
 看图说词小游戏
 
 
+## 📱 产品界面示意图
+
+| 界面一 | 界面二 | 界面三 | 界面四 |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/afb741c6-e6b0-423d-a9a3-065ca894f570" width="220" /> | <img src="https://github.com/user-attachments/assets/7b92e5e6-497c-4ee1-9d11-8e054c1a9be5" width="220" /> | <img src="https://github.com/user-attachments/assets/b6c8a0c7-4d3b-48ff-b991-444aeedb7ab5" width="220" /> | <img src="https://github.com/user-attachments/assets/d822921f-5627-421b-a77a-a2a70544dc2e" width="220" /> |
+
+
+
 ## 结构
 ├── 🏠 首页
 │   ├── 词语搜索
